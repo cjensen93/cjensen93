@@ -5,4 +5,4 @@
 - 🌱 I'm experienced in Python, Java, HTML, CSS, and JavaScript
 - 🌱 I've used PostScript, Raku, Lisp, Prolog, and Julia. As well as Django, Vue, React frameworks
 
-- 📫 How to reach me: cjensen93@gmail.com
+- 📫 How to reach me: me@calebjensen.com
